@@ -13,7 +13,7 @@ O objetivo é disponibilizar dados confiáveis e atualizados para times de produ
 
 ## Arquitetura da Solução
 
-![Arquitetura](./architecture/architecture.png)
+![Arquitetura](../architecture/architecture.png)
 
 ---
 
