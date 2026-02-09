@@ -164,6 +164,9 @@ Foi implementado um **event producer** responsável por simular a chegada contí
 
 Essa abordagem possibilita demonstrar um comportamento próximo ao de sistemas baseados em eventos sem a necessidade de infraestrutura adicional como Kafka ou Event Hub.
 
+## Saída esperada pós execução
+
+![Arquitetura](./architecture/databricks.png)
 ---
 
 ## Bronze Layer
